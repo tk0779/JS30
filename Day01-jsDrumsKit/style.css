@@ -10,6 +10,13 @@ body,html {
   font-family: sans-serif;
 }
 
+.headtext{
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
 .keys {
   display: flex;
   flex: 1;
