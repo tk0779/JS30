@@ -11,4 +11,5 @@ https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/
 ![day02-jscssclock](https://github.com/tk0779/Javascript30/blob/main/day02-100daysofcode-tk0779.jpg?raw=true)
 
 Day03 20221112 - Update CSS variable with JS <br>
-https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day03-updateCSSvariablewithJS/index.html![day03-updatecssvariableswithjs](https://github.com/tk0779/Javascript30/blob/main/day03-100daysofcode-tk0779.jpg?raw=true)
+https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day03-updateCSSvariablewithJS/index.html <br>
+![day03-updatecssvariableswithjs](https://github.com/tk0779/Javascript30/blob/main/day03-100daysofcode-tk0779.jpg?raw=true)
