@@ -13,3 +13,6 @@ https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/
 Day03 20221112 - Update CSS variable with JS <br>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day03-updateCSSvariablewithJS/index.html <br>
 ![day03-updatecssvariableswithjs](https://github.com/tk0779/Javascript30/blob/main/day03-100daysofcode-tk0779.jpg?raw=true)
+
+Day04 20221112 - Array Exercise <br/>
+![day04-array](https://github.com/tk0779/Javascript30/blob/main/day04-100daysofcode-tk0779.jpg?raw=true)
