@@ -15,4 +15,5 @@ https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/
 ![day03-updatecssvariableswithjs](https://github.com/tk0779/Javascript30/blob/main/day03-100daysofcode-tk0779.jpg?raw=true)
 
 Day04 20221112 - Array Exercise <br/>
+https://github.com/tk0779/Javascript30/blob/main/Day04-ArrayExercise/index.html <br/>
 ![day04-array](https://github.com/tk0779/Javascript30/blob/main/day04-100daysofcode-tk0779.jpg?raw=true)
