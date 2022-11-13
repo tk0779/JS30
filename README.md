@@ -20,4 +20,4 @@ https://github.com/tk0779/Javascript30/blob/main/Day04-ArrayExercise/index.html 
 <br/>
 Day05 20221114 Flex Panels <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day05-FlexPanels/index.html <br/>
-![day5-wesbos-javascript30](https://github.com/tk0779/Javascript30/blob/main/day05-100daysofcode-tk0779.gi?raw=truef)
+![day5-wesbos-javascript30](https://github.com/tk0779/Javascript30/blob/main/day05-100daysofcode-tk0779.gif?raw=truef)
