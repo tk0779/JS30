@@ -29,3 +29,7 @@ https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/
 Day07 20221116 Array Cardio2 <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day07%20-%20ArrayCardio2/index.html <br/>
 ![day7-arraycardio2](https://github.com/tk0779/Javascript30/blob/main/day07-100daysofcode-tk0779.jpg?raw=true)
+
+Day08 20221117 HTML5 Canvas <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day08%20-%20HTML5%20Canvas/index.html <br/>
+![day8 canvas](https://github.com/tk0779/Javascript30/blob/main/day08-100daysofcode-tk0779.gif?raw=true)
