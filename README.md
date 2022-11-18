@@ -25,11 +25,16 @@ https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/
 Day06 20221115 Type Ahead Searchbox
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day06-Type/index.html <br/>
 ![day6-typeahead-wesbos](https://github.com/tk0779/Javascript30/blob/main/day06-100daysofcode-tk0779.jpg?raw=true)
-
+<br/>
 Day07 20221116 Array Cardio2 <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day07%20-%20ArrayCardio2/index.html <br/>
 ![day7-arraycardio2](https://github.com/tk0779/Javascript30/blob/main/day07-100daysofcode-tk0779.jpg?raw=true)
-
+<br/>
 Day08 20221117 HTML5 Canvas <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day08%20-%20HTML5%20Canvas/index.html <br/>
 ![day8 canvas](https://github.com/tk0779/Javascript30/blob/main/day08-100daysofcode-tk0779.gif?raw=true)
+<br/>
+Day09 20221118 Console Tricks <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day09%20-%20Console%20Tricks/index.html<br/>
+![day9 console tricks](https://github.com/tk0779/Javascript30/blob/main/day09-consoletricks.jpg?raw=true)
+<br/>
