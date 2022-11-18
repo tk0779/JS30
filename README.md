@@ -38,3 +38,6 @@ Day09 20221118 Console Tricks <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day09%20-%20Console%20Tricks/index.html<br/>
 ![day9 console tricks](https://github.com/tk0779/Javascript30/blob/main/day09-consoletricks.jpg?raw=true)
 <br/>
+Day09 R2 20221118 Memory Game <br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day09-R2-MemoryGame/index.html <br/>
+![jsmemorygame](https://github.com/tk0779/Javascript30/blob/main/day09r2-memorygame.gif?raw=true)<br/>
