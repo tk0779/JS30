@@ -1,0 +1,31 @@
+body{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: ;
+}
+
+h2{
+    background-color: #fff;
+    color:#000d
+}
+
+p{
+    background-color: #fff;
+    color: #000;
+}
+
+.container{    
+    margin: 50px;
+}
+
+.center{
+    text-align: center;
+}
+
+.grid {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
