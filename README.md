@@ -41,3 +41,8 @@ https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/
 Day09 R2 20221118 Memory Game <br/>
 https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day09-R2-MemoryGame/index.html <br/>
 ![jsmemorygame](https://github.com/tk0779/Javascript30/blob/main/day09r2-memorygame.gif?raw=true)<br/>
+
+Day10 2-221119 Hold Shift to select multiple<br/>
+https://htmlpreview.github.io/?https://github.com/tk0779/Javascript30/blob/main/Day10-shifttoaddmultiple/index.html br/>
+![day10shifttomultipleselect](https://github.com/tk0779/Javascript30/blob/main/day10-tk0779-100daysofcode.jpg?raw=true)
+https://github.com/tk0779/Javascript30/blob/main/day10-tk0779-100daysofcode.jpg <br/>
