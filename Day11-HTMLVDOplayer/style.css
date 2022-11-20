@@ -28,6 +28,8 @@ body {
   position: relative;
   font-size: 0;
   overflow: hidden;
+    margin: auto;
+
 }
 
 /* This css is only applied when fullscreen is active. */
